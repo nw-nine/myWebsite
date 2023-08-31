@@ -1,0 +1,134 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/* Set ALL HTML elements with border-box sizing */* {
+  box-sizing: border-box;
+}
+
+.background {
+  background-color: ivory;
+}
+
+.box-center {
+  border: yellowgreen 3px solid;
+  text-align: center;
+  background-color: darkolivegreen;
+  font-family: monospace;
+  margin-bottom: 20px;
+}
+
+.hr-one {
+  height: 3px;
+  background-color: yellowgreen;
+
+}
+
+.hr-two {
+  border: 1px dashed darkolivegreen;
+}
+
+.bolden {
+  font-weight: bold;
+}
+
+.nav {
+  margin-top: 35px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.box {
+  border: 3px darkolivegreen solid;
+  border-radius: 10px;
+  width: 130px;
+  height: 60px;
+  padding: 20px;
+  font-size: 18px;
+  font-family: monospace;
+  font-style: italic;
+  text-align: center;
+  color: darkolivegreen;
+  background-color: lightgray;
+}
+
+.intro {
+  background-color: #82d882;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 2px black solid;
+  border-radius: 5px;
+  max-width: 900px;
+  width: auto;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: monospace;
+  text-align: center;
+}
+
+.about-me {
+  background-color: #82d882;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 2px black solid;
+  border-radius: 5px;
+  max-width: 1200px;
+  width: auto;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: monospace;
+}
+
+.contact {
+  background-color: #82d882;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 2px black solid;
+  border-radius: 5px;
+  max-width: 500px;
+  width: auto;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: monospace;
+}
+
+.footer {
+  margin: 20px 0px 0px 0px;
+  background-color: darkolivegreen;
+  border: 5px black solid;
+  font-family: monospace;
+  color: black;
+  text-align: center;
+}
+
+.pic-one {
+  display: block;
+  max-width: 500px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 40px;
+}
+
+.pic-two {
+  
+  padding: 5px;
+  max-width: 300px;
+  width: auto;
+  height: auto;
+  padding-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row {
+  display: flex;
+}
+

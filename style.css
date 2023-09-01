@@ -99,6 +99,23 @@ html {
   font-family: monospace;
 }
 
+a {
+  font-size: 18px;
+  font-family: monospace;
+}
+
+a:link {
+  color: darkcyan;
+}
+
+a:visited {
+  color: rebeccapurple;
+}
+
+a:hover {
+  color: darkgoldenrod;
+}
+
 .footer {
   margin: 20px 0px 0px 0px;
   background-color: darkolivegreen;
